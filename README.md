@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohaimin</h1>
-<h3 align="center">I'm Web  developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Mohaimin</h1>
+<h3 align="center">I'm Web developer from Bangladesh</h3>
+<img src = "https://media.licdn.com/dms/image/v2/D5616AQHjz7jVC1LGTQ/profile-displaybackgroundimage-shrink_350_1400/B56Zm0bVEoIAAY-/0/1759668687654?e=1762387200&v=beta&t=dz1ZGH0IsHAeWa-28Ej4t91OnH376z6IBCr-ohUx5PI" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-al-mohaimin&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-al-mohaimin" /> </p>
 
